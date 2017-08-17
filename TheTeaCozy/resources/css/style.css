@@ -1,0 +1,165 @@
+
+body {
+	background-color: black;
+	color: seashell;
+	font-family: Helvetica;
+	font-size:22px;
+	margin: 0 auto;
+	opacity: 0.9;
+	padding: 0;
+	width: 100%;
+}
+
+header {
+	background-color: black;
+	border-bottom: 1px solid seashell;
+	display: flex;
+	height: 69px;
+	justify-content: space-between;
+	margin: 0 auto;
+	padding: 0;
+	position: fixed;
+	width: 100%;
+	z-index: 1;
+}
+
+header img {
+	height: 50px;
+	margin: auto 10px;
+}
+
+header nav {
+	color: seashell;
+	margin: auto 10px auto 0;
+}
+
+header a {
+	color: seashell;
+	font-size: 22px;
+	padding: 0 10px;
+	text-decoration: underline;
+}
+
+.container {
+	background-color: black;
+	display: block;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+}
+
+section#s1 {
+	align-items: center;
+	background-image: url("../images/img-mission-background.jpg");
+	background-size: cover;
+	display: flex;
+	height: 700px;
+	margin: 0 auto;
+	width: 1200px;
+}
+
+.mission {
+	background-color: black;
+	color: seashell;
+	margin: 0 auto;
+	text-align: center;
+	vertical-align: center;
+	width: 1200px;
+}
+
+section#s2 {
+	background-color: black;
+	color: seashell;
+	display: block;
+	height: auto;
+	margin: 50px auto 0 auto;
+	padding: 0;
+	text-align: center;
+	width: 1000px;
+}
+
+.menu {
+	display: block;
+	height: auto;
+	margin: 0 auto;
+	padding: 0 auto;
+	width: 1000px;
+}
+
+.menu h4 {
+	margin: 0 auto;
+	padding: 0;
+}
+
+.menu1 {
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
+
+.menu2 {
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
+
+.foto {
+	height: 200px;
+	margin: 10px; 
+	width: 300px;
+}
+
+section#s3 {
+	align-items: center;
+	background-image: url("../images/img-locations-background.jpg");
+	background-size: 100% 140%;
+	display: flex;
+	flex-direction: column;
+	height: 500px;
+	justify-content: center;
+	margin: 80px auto 15px auto;
+	padding: 0;
+	text-align: center;
+	width: 1200px;
+}
+
+.title h2{
+	color: seashell;
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+}
+
+.locations {
+	display: flex;
+	justify-content: center;
+	vertical-align: center;
+}
+
+.location {
+	background-color: black;
+	color: seashell;
+	height: 200px;
+	margin: 15px 20px 10px 20px;
+	opacity: 1;
+	padding-bottom: 30px;
+	width: 300px;
+}
+
+
+
+section#s4 {
+	color: seashell;
+	height: 200px;
+	text-align: center;
+	width: 100%;
+}
+
+footer{
+	color: seashell;
+	font-size: 16px;
+	height: 50px;
+	padding-left: 20px;
+	text-align: left;
+}

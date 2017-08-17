@@ -1,0 +1,220 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"lis",
+				"list-style-position"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/SALCROM/projects/practicas/index.php",
+		"/Users/SALCROM/projects/practicas/ejemplo1.php",
+		"/Users/SALCROM/projects/practicas/ejemplo2.php",
+		"/Users/SALCROM/projects/practicas/usoDeEcho2.php",
+		"/Users/SALCROM/projects/practicas/usoDeEcho.php",
+		"/Users/SALCROM/projects/practicas/curso2.php",
+		"/Users/SALCROM/projects/practicas/index.html",
+		"/Users/SALCROM/projects/et_v2/css/contenedores.css",
+		"/Users/SALCROM/projects/et_v2/index.html",
+		"/Users/SALCROM/projects/et_v2/css/formatos.css",
+		"/Users/SALCROM/Desktop/www.paoenglishteacherboard.com/css/estilos_principales.css",
+		"/Users/SALCROM/Desktop/www.paoenglishteacherboard.com/index.html",
+		"/Users/SALCROM/Desktop/ENGLISH TEACHER v3/index.sublime-workspace"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"images",
+			"corkboard-background.jpg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"/images"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 144.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
